@@ -4,13 +4,6 @@
 
 </div>
 
----
-
-
-
-</div>
-
-<div align="center">
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Martin+Wael+Wasfy;Data+Scientist+%7C+ML+Engineer;Turning+Raw+Data+into+Intelligence;Building+Models+that+Actually+Work.)](https://git.io/typing-svg)
 
@@ -22,7 +15,7 @@
 
 <img align="right" alt="Data Science GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### `> whoami`
+### `> who am I `
 
 ```python
 martin = {
