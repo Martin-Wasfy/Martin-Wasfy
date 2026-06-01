@@ -1,13 +1,16 @@
 <div align="center">
 
-```
-███╗   ███╗ █████╗ ██████╗ ████████╗██╗███╗   ██╗
-████╗ ████║██╔══██╗██╔══██╗╚══██╔══╝██║████╗  ██║
-██╔████╔██║███████║██████╔╝   ██║   ██║██╔██╗ ██║
-██║╚██╔╝██║██╔══██║██╔══██╗   ██║   ██║██║╚██╗██║
-██║ ╚═╝ ██║██║  ██║██║  ██║   ██║   ██║██║ ╚████║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝
-```
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:00F5FF,100:7B2FBE&height=300&section=header&text=MARTIN%20WAEL%20WASFY&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=%20Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Pattern%20Hunter&descAlignY=75&descSize=18" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=%F0%9F%94%8D+Extracting+signal+from+noise+since+day+one...;%F0%9F%A7%A0+Teaching+machines+to+think%2C+one+epoch+at+a+time;%F0%9F%8C%90+Egypt+%E2%86%92+The+Cloud+%E2%86%92+Everywhere+data+lives;%E2%9A%A1+If+it+can+be+modeled%2C+I+will+model+it.)](https://git.io/typing-svg)
+
+</div>
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Martin+Wael+Wasfy;Data+Scientist+%7C+ML+Engineer;Turning+Raw+Data+into+Intelligence;Building+Models+that+Actually+Work.)](https://git.io/typing-svg)
